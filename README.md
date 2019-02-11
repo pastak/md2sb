@@ -1,3 +1,5 @@
+# It has been moved [`scrapbox-converter` mono-repo](https://github.com/pastak/scrapbox-converter/tree/master/packages/md2sb) and this repo is archived.
+
 # md2sb
 
 Encode Markdown to Scrapbox.io style text
